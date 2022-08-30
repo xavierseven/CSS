@@ -1,0 +1,81 @@
+body {
+    background-image: url(Edificios.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size:cover;
+}
+.Inicio{
+    border-radius: 20px;
+    box-shadow: 5px 5px;
+    background-image: linear-gradient(orange, red);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: auto;
+}
+.Edad{
+    border-radius: 20px;
+    box-shadow: 5px 5px;
+    background-image: linear-gradient(orange, red);
+    width: 200px;
+    height: auto;
+}
+.Domicilio{
+    border-radius: 20px;
+    box-shadow: 5px 5px;
+    background-image: linear-gradient(orange, red);
+    width: 580px;
+    height: auto;
+}
+.caja{
+    border-radius: 10px;
+    box-shadow: 5px 5px;
+    background-image: linear-gradient(orange, red);
+    width: 80px;
+    height: auto;
+}
+.Series{ 
+    border-radius: 10px;
+    box-shadow: 5px 5px;
+    background-image: linear-gradient(orange, red);
+    width: 250px;
+    height: auto;
+}
+.Peliculas{
+    border-radius: 10px;
+    box-shadow: 5px 5px;
+    background-image: linear-gradient(orange, red);
+    width: 250px;
+    height: auto;
+}
+p{
+    column-count: 1;
+    column-gap: 20px;
+    color: black;
+    font-family: Arial;
+    font-size: 1.2rem;
+}
+h1{
+    color: black;
+    font-family: Verdana;
+}
+h2{
+    color: black;
+    font-family: Verdana;
+}
+h3{
+    color: black;
+    font-family: Verdana;
+}
+p{
+    color:white;
+    font-family:arial;
+    font-size: 1.5 rem;
+}
+h1{
+    color: black;
+    font-family: verdana;
+}
+img{text-align}
